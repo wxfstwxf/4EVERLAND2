@@ -4,7 +4,7 @@
   "description": "",
   
   "scripts": {
-    "build": "echo \"success\""
+    "build": "cho \"success\""
   },
   "author": "",
   "license": "ISC",
